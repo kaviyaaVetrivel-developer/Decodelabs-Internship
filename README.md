@@ -100,5 +100,3 @@ Language: Python
 ## Author
 
 Kaviyaa Padmavathi
-
-# Decodelabs-Internship
